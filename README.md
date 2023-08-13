@@ -33,7 +33,7 @@
 #### Hover over data points to see tooltips and additional information.
 #### Gain insights into startup investments, industry trends, investor preferences, and more.
 
-# Thank you for exploring the "Shark-Tank Analysis" Power BI project. We hope you find the insights valuable and informative!
+### Thank you for exploring the "Shark-Tank Analysis" Power BI project. We hope you find the insights valuable and informative!
 
 
 
